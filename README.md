@@ -1,4 +1,5 @@
 Proposta do desafio do Bootcamp Santander 2023 - Ciência de Dados
+
 1 - Criação de uma instância na Azure para MySQL
 
 2 - Criar o Banco de dados com base disponível no github
